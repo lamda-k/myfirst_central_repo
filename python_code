@@ -1,4 +1,1 @@
-print("welcom")
-def fun(name):
-	return print("wlcome" + name)
-
+print("this is first modification on file python_code")
