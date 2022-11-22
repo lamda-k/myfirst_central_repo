@@ -1,0 +1,4 @@
+print("welcom")
+def fun(name):
+	return print("wlcome" + name)
+
